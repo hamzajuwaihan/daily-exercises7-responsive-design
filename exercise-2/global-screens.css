@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #eeeeee;
+    font-size: large;
+}
+.card-1,.card-2,.card-3,.card-4{
+    background-color: white;
+}
+img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+button {
+    background-color: white;
+    border: none;
+    color: #4434d3;
+    font-size: larger;
+}
+.container {
+    margin-top: 50px;
+}
